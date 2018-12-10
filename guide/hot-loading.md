@@ -4,6 +4,8 @@
 
 > 开启动态加载 mapper.xml
 
+
+
 - 多数据源配置多个 MybatisMapperRefresh 启动 bean
 - 默认情况下,eclipse保存会自动编译,idea需自己手动编译一次
 
